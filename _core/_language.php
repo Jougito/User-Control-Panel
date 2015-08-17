@@ -43,7 +43,7 @@
             To dump "Bank inventory", open all bags in it, before launch the /saveme command,
             to dump "Profession recipes" turn open the frames of the professions.
             Make log out and the dump file will be saved in the WTF \ Account \ %Username% \ SavedVariables \ saveme.lua <br/>
-            New character will appear on <b>GM Account</b>, not your, after review it will be approved, denied or you can cancel it manually, if you want';
+            New character will appear on <b>Cuenta del MJ</b>, not your, after review it will be approved, denied or you can cancel it manually, if you want';
             $L[27] = 'Bienvenido al <b>PANEL DE ADMINISTRACIÓN</b> Pincha';
             $L[28] = 'para aprobar o denegar las tranferencias, o si es necesario reiniciar la tranferencia';
             $L[29] = '¡Operación finalizada!</br>Tu personaje esta listo para ser customizado, entra en tu cuenta y termina la operación';
